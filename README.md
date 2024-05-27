@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Indeed-job-scrper-with-curl-cffi
 A Indeed Job scraper using curl-cffi
 =======
@@ -53,4 +53,3 @@ The `read_headers_from_json` function is responsible for reading the custom head
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> master
